@@ -1,0 +1,6 @@
+C:\Users\krusely_emmarose\Desktop\C#\Dancing\Dancing\bin\Debug\Dancing.exe.config
+C:\Users\krusely_emmarose\Desktop\C#\Dancing\Dancing\bin\Debug\Dancing.exe
+C:\Users\krusely_emmarose\Desktop\C#\Dancing\Dancing\bin\Debug\Dancing.pdb
+C:\Users\krusely_emmarose\Desktop\C#\Dancing\Dancing\obj\Debug\Dancing.csproj.CoreCompileInputs.cache
+C:\Users\krusely_emmarose\Desktop\C#\Dancing\Dancing\obj\Debug\Dancing.exe
+C:\Users\krusely_emmarose\Desktop\C#\Dancing\Dancing\obj\Debug\Dancing.pdb
